@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Chess System é uma aplicação Java desenvolvida ao longo do **Curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos**, ministrado pelo Professor [Nelio Alves](https://github.com/acenelio) da [DevSuperior](https://devsuperior.com) na [Udemy](https://www.udemy.com/course/java-curso-completo).
+Chess System é uma aplicação Java desenvolvida ao longo do **Curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos**, ministrado pelo Professor [Nelio Alves](https://github.com/acenelio) da [DevSuperior](https://devsuperior.com.br) na [Udemy](https://www.udemy.com/course/java-curso-completo).
 
 A aplicação consiste no Jogo de Xadrez, implementado utilizando os conceitos da Programação Orientada a Objetos (POO) como Herança, Polimorfismo, Encapsulamento e Associação. Neste projeto, o Terminal foi usado como Interface com o Usuário.
 
