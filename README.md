@@ -1,47 +1,55 @@
-# Chess System 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hakkinenT/java-chess-system/blob/master/LICENSE) 
 
-# Sobre o projeto
 
-Chess System é uma aplicação Java desenvolvida ao longo do **Curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos**, ministrado pelo Professor [Nelio Alves](https://github.com/acenelio) da [DevSuperior](https://devsuperior.com.br) na [Udemy](https://www.udemy.com/course/java-curso-completo).
+# Chess System
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Sobre o projeto
+Chess System é uma aplicação Java desenvolvida ao longo do Curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos, ministrado pelo Professor Nelio Alves da DevSuperior na Udemy.
 
 A aplicação consiste no Jogo de Xadrez, implementado utilizando os conceitos da Programação Orientada a Objetos (POO) como Herança, Polimorfismo, Encapsulamento e Associação. Neste projeto, o Terminal foi usado como Interface com o Usuário.
 
-## Layout
+## Modelo Conceitual
+![Modelo Conceitual](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/modelo-conceitual/chess-system-design.png)
+
+## Screenshots
+
 ![Image 1](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/image1.png) ![Image 2](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/image2.png)
 
 ![Image 3](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/image3.png) ![Image 4](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/image4.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/hakkinenT/assets/blob/master/java-projects/java-chess-system/modelo-conceitual/chess-system-design.png)
 
-# Tecnologias utilizadas
+## Tecnologias Utilizadas
+
 - Java
 
-# Como executar o projeto
-Pré-requisito mínimo: Java 8
+## Aprendizados
+
+Neste projeto foi possível aprender a mapear as classes de um diagrama para o código Java, colocando em prática os conceitos da Programação Orientada a Objetos.
+
+
+## Rodando localmente
+
+Clone o projeto
 
 ```bash
-# clonar repositório
-git clone https://github.com/hakkinenT/java-chess-system.git
-
-# entrar na pasta do projeto onde ficam os arquivos .class
-## Usando o IntelliJ Idea
-cd java-chess-system
-cd out
-cd production
-cd java-chess-system
-
-# abrir o Git Bash na pasta
-- Clicar com o botão direito do mouse
-- Selecionar Git Bash
-
-# executar o projeto
-java application/Program
+  git clone https://github.com/hakkinenT/java-chess-system.git
 ```
 
-# Autor
+Entre no diretório do projeto
 
-Tawanna Hakkinen Oliveira Leite
+```bash
+  cd java-chess-system
+```
 
-https://www.linkedin.com/in/tawannahakkinen/
+Rode a aplicação
+
+```bash
+  java application/Program
+```
+
+
+## Autores
+
+- [@hakkinenT](https://github.com/hakkinenT)
